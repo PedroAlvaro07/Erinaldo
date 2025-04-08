@@ -1,0 +1,10 @@
+1;Plástico;Rua A, nº 123
+2;Vidro;Av. B, nº 456
+3;Eletronicos; Praça C, nº 789
+4;Papel;Rua X, nº 321
+5;Vidro;Rua Y, nº 654
+6;Plástico;Av. Z, nº 987
+7;Metal;Rua W, nº 111
+8;Eletrônicos; Av. Q, nº 222
+9;Papel;Praça R, nº 333
+10;Plástico;Av. D, nº 7
