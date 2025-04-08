@@ -20,10 +20,10 @@ public class ListaPontoColeta {
             this.inicio = p;
         } else {
             PontoColeta aux = this.inicio;
-            while (aux.proximo != null) {  // percorre até o último nó
+            while (aux.proximo != null) {
                 aux = aux.proximo;
             }
-            aux.proximo = p;  // conecta o novo nó ao final da lista
+            aux.proximo = p;
         }
     }
 
