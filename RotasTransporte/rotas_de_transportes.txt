@@ -1,0 +1,25 @@
+1;Linha Azul;Metrô;Centro  
+2;Linha Verde;Metrô;Zona Sul  
+3;Expresso Norte;Ônibus;Zona Norte  
+4;Circular Leste;Ônibus;Zona Leste  
+5;Linha Vermelha;Metrô;Zona Oeste  
+6;BRT Express;Ônibus;Centro  
+7;Linha Amarela;Trem;Zona Norte  
+8;Interbairros 1;Ônibus;Centro  
+9;Interbairros 2;Ônibus;Zona Sul  
+10;Linha Prata;Metrô;Centro  
+11;Expresso Leste;Ônibus;Zona Leste  
+12;Linha Ouro;Metrô;Zona Sul  
+13;Linha Branca;Trem;Zona Oeste  
+14;Conexão Sul;Ônibus;Zona Sul  
+15;Expresso Oeste;Ônibus;Zona Oeste  
+16;Linha Central;Metrô;Centro  
+17;Circular Norte;Ônibus;Zona Norte  
+18;Linha Rosa;Trem;Zona Leste  
+19;Linha Cinza;Metrô;Zona Norte  
+20;BRT Norte-Sul;Ônibus;Centro  
+21;Expresso Central;Ônibus;Centro  
+22;Linha Laranja;Metrô;Zona Sul  
+23;Linha Violeta;Trem;Centro  
+24;Circular Oeste;Ônibus;Zona Oeste  
+25;Linha Marrom;Metrô;Zona Norte  
